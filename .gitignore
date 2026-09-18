@@ -21,7 +21,3 @@ test_images/
 
 # Cache
 .cache/
-
-# yolo
-yolo11n.pt
-yolo26n.pt
