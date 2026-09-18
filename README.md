@@ -172,6 +172,7 @@ mAP50-95  : 約 0.90
 ## 学習済みモデル
 
 学習済みモデルは GitHub Releases から取得できます。
+
 https://github.com/shunya200426/gakumasu-ui-detector/releases
 
 | File | Format | 用途 |
