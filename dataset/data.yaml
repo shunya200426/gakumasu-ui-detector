@@ -1,0 +1,30 @@
+path: dataset
+train: images/train
+val: images/val
+
+nc: 23
+
+names:
+  0: skill_card
+  1: p_item
+  2: idol_img
+  3: idol_name
+  4: vo_param
+  5: da_param
+  6: vi_param
+  7: vo_bonus
+  8: da_bonus
+  9: vi_bonus
+  10: stamina
+  11: support_card
+  12: memory
+  13: scenario_title
+  14: difficulty_title
+  15: idol_icon
+  16: fan_count
+  17: star_param
+  18: exam_score
+  19: vo_score
+  20: da_score
+  21: vi_score
+  22: kirameki

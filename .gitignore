@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset
+dataset/images/
+dataset/labels/
+
+# Training outputs
+runs/
+
+# Test images
+test_images/
+
+# Model files
+*.pt
+
+# Cache
+.cache/
+
+# yolo
+yolo11n.pt
+yolo26n.pt

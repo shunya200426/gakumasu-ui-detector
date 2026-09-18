@@ -1,0 +1,8 @@
+ultralytics==8.4.81
+albumentations==2.0.8
+matplotlib==3.11.0
+pandas==3.0.4
+numpy==2.5.0
+opencv-python==4.13.0.92
+onnx==1.22.0
+onnxslim==0.1.94
